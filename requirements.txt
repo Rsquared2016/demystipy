@@ -1,0 +1,5 @@
+pandas
+numpy
+sklearn
+git+https://github.com/popily/preppy.git
+git+https://github.com/popily/identipyer.git
